@@ -1,0 +1,21 @@
+NO ./sprites/mur/mur1.xpm
+SO ./sprites/mur/mur2.xpm
+WE ./sprites/mur/mur3.xpm
+
+EA ./sprites/mur/mur4.xpm
+		  	
+F ./sprites/sol/sol12.xpm  
+C ./sprites/sol/sol20.xpm
+
+11111111
+100000001
+100S0011
+1000001
+1112111
+1000001
+1010001
+1020001
+1112111
+1000001
+11100011111111
+11111111
